@@ -1,7 +1,7 @@
 
 # Landing Page - portifolio-simplificado
 
-![Portifolio Simplificado](./img/screenportifolio.png)
+![Portifolio Simplificado](./imagens/screenportifolio.png)
 
 ---
 
